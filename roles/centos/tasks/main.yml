@@ -1,0 +1,6 @@
+---
+- include: command.yml
+- include: initialize.yml
+- include: aws.yml
+- include: datadog.yml
+- include: lastjob.yml
